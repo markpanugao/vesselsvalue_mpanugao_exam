@@ -1,0 +1,10 @@
+1. Vendor Files is not included on the zip file for lightweight data.
+2. Rename the Main Folder "techtest-main"
+3. I followed the objectives from 1-9 based on what I think and understand.
+4. There is a modification on sql file. (see techtest.sql)
+5. I am not be able to do the number 10 since I dont broad have experience in PHP Unit Test.
+
+I'm Hoping I meets all the criteria.
+Thank You and GOD Bless!
+
+-mpanugao
